@@ -1,2 +1,2 @@
 # skills-copilot-codespaces-vscode
-My clone repository
+I will update the project soon.
